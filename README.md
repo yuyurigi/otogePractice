@@ -1,6 +1,6 @@
 # otogePractice
 
-System Tested : macOS Big Sur + Xcode + openFrameworks v0.11.2
+System Tested : macOS Big Sur + Xcode + openFrameworks v0.11.2  
 addon : ofsXvg, [ofxNanoVG](https://github.com/satoruhiga/ofxNanoVG), [ofxTrueTypeFontUC](https://github.com/hironishihara/ofxTrueTypeFontUC)  
 font : [コーポレート・ロゴ（ラウンド）ver2](https://logotype.jp/font-corpmaru.html)  
 svg : [Eva Icons](https://akveo.github.io/eva-icons/#/)  
