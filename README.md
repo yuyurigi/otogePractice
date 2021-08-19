@@ -18,4 +18,17 @@ https://www.pexels.com/ja-jp/video/6949448/
 https://www.pexels.com/ja-jp/video/6949454/  
 https://www.pexels.com/ja-jp/video/6949456/  
 https://www.pexels.com/ja-jp/video/6949513/  
-https://www.pexels.com/ja-jp/video/6949520/
+https://www.pexels.com/ja-jp/video/6949520/  
+  
+------------------------------------------------------------------------------------------
+  
+キーボード  
+s : スクリーンショット  
+shift : ブックマークを追加  
+delete, backspace : //選択したブックマークを削除  
+← : 前のブックマークに戻る  
+→ : 次のブックマークに進む  
+r : リピート←→ノーリピート  
+space : 再生←→一時停止  
+↑ : 再生スピードをあげる  
+↓ : 再生スピードをさげる
