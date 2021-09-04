@@ -900,6 +900,7 @@ void ofApp::mousePressed(int x, int y, int button){
                     videos[currentVideo].stop();
                     currentVideo = i;
                     videos[currentVideo].play();
+                    videos[currentVideo].setSpeed(speed); //現在設定してる再生スピードにする
                     
                     //xmlからブックマークをロードする
                     bookmarks.clear();
